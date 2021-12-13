@@ -1,4 +1,7 @@
 
+# Created by: Camilo Rojas
+# Updated on: 11/11/2021
+
 # importing libraries
 """ List  functions to analyze, filter, process, etc the calcium data
     It defines the following functions:
